@@ -29,11 +29,11 @@ In this project I have got in-depth knowledge about
 
 ## Time required to complete the project
 
-More than 1 day.
+ More than 15 hours .
 
 ## Live link
 
-
+[Rode Clone](https://rode-clone-souritaray.netlify.app/)
 
 ## Contact me on:
 
